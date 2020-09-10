@@ -9,4 +9,4 @@ To possibly include:
 `connectivity constraint`
 `preferred direction for migration`
 `periodic boundary condition`
-`integrate PDE over the mesh`
+`integrate PDEs over the mesh`

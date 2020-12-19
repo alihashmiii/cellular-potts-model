@@ -7,6 +7,5 @@ A mathematica implementation of the cellular-potts model. The code currently inc
 
 To possibly include: 
 `connectivity constraint`
-`preferred direction for migration`
-`periodic boundary condition`
+`torus boundary condition`
 `integrate PDEs over the mesh`

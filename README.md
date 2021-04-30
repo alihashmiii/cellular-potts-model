@@ -2,7 +2,7 @@
 
 `author: Ali Hashmi`
 
-A mathematica implementation of the cellular-potts model. The code currently includes constraints for cell volume, perimeter and cell-cell adhesion.
+A toy implementation of the cellular-potts model in mathematica. The code currently includes constraints for cell volume, perimeter and cell-cell adhesion.
 
 
 To possibly include in future: 
